@@ -1,0 +1,32 @@
+apiVersion: v1
+entries:
+  slik:
+  - apiVersion: v2
+    created: "2024-06-25T15:38:30.973424+02:00"
+    description: A Helm chart for slik
+    digest: b9e3a9f5c12ad44d12bc5708fbb5d089d4e5815da37fc91ef0d9e4bdb396ccad
+    home: https://github.com/vultr/slik
+    maintainers:
+    - name: Josten Landtroop
+    name: slik
+    sources:
+    - https://raw.githubusercontent.com/t1mk1k/slinkee/add-helm-chart-repo/helm/repo/slik-0.0.1.tgz
+    type: application
+    urls:
+    - slik-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    created: "2024-06-25T15:38:30.971031+02:00"
+    description: A Helm chart for slik
+    digest: 6a2e77997f0d7332dfb772423b215cba3434c8048df1779e30fd90f8ddf370c1
+    home: https://github.com/vultr/slik
+    maintainers:
+    - name: Josten Landtroop
+    name: slik
+    sources:
+    - https://github.com/vultr/slik
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/t1mk1k/slinkee/add-helm-chart-repo/helm/repo/slik-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-06-25T15:38:30.968125+02:00"
