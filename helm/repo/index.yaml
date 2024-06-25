@@ -10,7 +10,7 @@ entries:
     - name: Josten Landtroop
     name: slik
     sources:
-    - https://raw.githubusercontent.com/t1mk1k/slinkee/add-helm-chart-repo/helm/repo/slik-0.0.1.tgz
+    - https://raw.githubusercontent.com/t1mk1k/slinkee/add-helm-chart-repo/helm/repo/slik-0.0.2.tgz
     type: application
     urls:
     - slik-0.0.2.tgz
